@@ -2,7 +2,7 @@
 
 #### Preview
 
-Follow the below and you will get the sxy vim
+Follow the below and you will get the sexy vim
 
 * [oh-my-zsh](http://ohmyz.sh/)
 

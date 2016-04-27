@@ -2,6 +2,8 @@
 
 #### Preview
 
+![](https://github.com/dayuoba/sexy-vim/blob/master/prevew.png)
+
 Follow the below and you will get the sxy vim
 
 * [oh-my-zsh](http://ohmyz.sh/)
